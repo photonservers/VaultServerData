@@ -1,5 +1,17 @@
 [
   {
+    "ManifestString": "5317305413924462757",
+    "FriendlyName": "October 18th, 2016",
+    "ManifestPatchInfo": {
+      "AssemmblyURL": "",
+      "AssemmblyHash": "",
+      "PUNAppIDOffset": 3219456,
+      "VoiceAppIDOffset": 3219496
+    },
+    "RequiresRecNet": false,
+    "ServerName": ""
+  },
+  {
     "ManifestString": "5112800850661766506",
     "FriendlyName": "September 27th, 2018",
     "ManifestPatchInfo": {
